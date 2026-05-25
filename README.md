@@ -76,15 +76,14 @@ Python Developer | Django Developer | REST API Developer 🚀
 ![REST API](https://img.shields.io/badge/REST_API-orange?style=for-the-badge)
 
 ---
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdDanish9117&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdDanish9117&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdDanish9117&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdDanish9117&layout=compact&theme=github_dark" />
 </p>
 
 # 🔥 GitHub Streak
