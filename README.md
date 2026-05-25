@@ -80,14 +80,12 @@ Python Developer | Django Developer | REST API Developer 🚀
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdDanish9117&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdDanish9117&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MdDanish9117&show_icons=true&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdDanish9117&layout=compact&theme=radical" />
+</p>
 
 # 🔥 GitHub Streak
 
