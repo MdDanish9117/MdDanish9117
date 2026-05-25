@@ -27,7 +27,7 @@ Python Developer | Django Developer | REST API Developer 🚀
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-danish-10864832a//" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
